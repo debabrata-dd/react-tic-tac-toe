@@ -33,7 +33,7 @@ ul {
   width: 34px;
 }
 
-.square:hover {
+.square:focus {
   outline: none;
 }
 
